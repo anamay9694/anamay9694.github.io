@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anamay Sarkar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/anamay_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer Portfolio"
   location         : "Los Angeles,CA"
   email            : "anamaysa@usc.edu"
