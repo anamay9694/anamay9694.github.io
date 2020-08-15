@@ -95,8 +95,8 @@ class BodyCards extends React.Component{
 	}
 ```
 Each of the news articles can be shared.
-Clicking on the share button, opens a modal as shown below. It has the options to share via facebook, twitter and email.
-<img src="{{ site.url }}{{ site.baseurl }}/images/newsapp/modalshare.PNG" alt="Share Modal">
+Clicking on the share button, opens a modal as shown below. It has the options to share via facebook, twitter and email. <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/modalshare.PNG" alt="Share Modal">  <br/>
 The share components were imported from react-share. A code snippet to creating the share items in the modal is shown below
 ```js
 <div className="Icons">
