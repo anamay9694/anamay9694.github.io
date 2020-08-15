@@ -4,12 +4,12 @@ permalink: /about/
 header: 
    image: "images/aboutme.jpg"
 ---
-Student at USC - pursuing Masters in Computer Science (GPA 4.0) - August 2019 - May 2021 <br/>
-Ex- Software Developer Intern at Reseach Loupe - May 2020 - August 2020 <br/>
-Ex- Full Stack Software Engineer at United Health Group - July 2017 - July 2019 <br/>
-Graduated from NIT Rourkela, India - with **Institute Gold Medal** - Bachelor of Technology in Computer Science - July 2013 - May 2019 <br/>
+Student at USC - pursuing Masters in Computer Science (GPA 4.0) - August 2019 - May 2021 <br/> <br/>
+Ex- Software Developer Intern at Reseach Loupe - May 2020 - August 2020 <br/><br/>
+Ex- Full Stack Software Engineer at United Health Group - July 2017 - July 2019 <br/><br/>
+Graduated from NIT Rourkela, India - with **Institute Gold Medal** - Bachelor of Technology in Computer Science - July 2013 - May 2019 <br/><br/>
 
-Resume:
+Resume:<br/>
 <a href="{{ site.url }}{{ site.baseurl }}/images/resume.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/resume.PNG"></a>
 
 My first published book:
