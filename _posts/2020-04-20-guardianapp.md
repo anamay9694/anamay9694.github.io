@@ -94,7 +94,35 @@ class BodyCards extends React.Component{
 		})
 	}
 ```
+Each of the news articles can be shared.
+Clicking on the share button, opens a modal as shown below. It has the options to share via facebook, twitter and email.
+<img src="{{ site.url }}{{ site.baseurl }}/images/newsapp/modalshare.PNG" alt="Share Modal">
+The share components were imported from react-share. A code snippet to creating the share items in the modal is shown below
+```js
+<div className="Icons">
+    <div className="Facebook">
+        <FacebookShareButton url={this.props.webURl} hashtag={"#CSCI_571_NewsApp"} >
+            <FacebookIcon size={60} round={true}/>
+        </FacebookShareButton>
+    </div>
+    <div className="Twitter">
+        <TwitterShareButton url={this.props.webURl} hashtags={["CSCI_571_NewsApp"]}>
+            <TwitterIcon size={60} round={true}/>
+        </TwitterShareButton>
+    </div>
+    <div className="Email">
+        <EmailShareButton url={this.props.webURl} subject={"#CSCI_571_NewsApp"}>
+            <EmailIcon size={60} round={true}/>
+        </EmailShareButton>
+    </div>
+</div>
+```
 
+Clicking on the indivual cards, opens a detailed page of the news as below:
 
-
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage1.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage1.PNG"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage2.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage2.PNG"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage3.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/detailedpage3.PNG"></a>
+</figure>
 
