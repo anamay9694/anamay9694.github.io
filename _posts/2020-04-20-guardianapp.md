@@ -167,7 +167,7 @@ class PageWithComments extends React.Component {
 ```
 
 The articles can be bookmarked for future reference. Bookmarking the articles, adds them to the local storage. Saving them, pops up a toast as shown below:
-<img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/toast.PNG" alt="Toast">  <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/toast.png" alt="Toast">  <br/>
 Snippet of using local storage:
 
 ```js
@@ -180,7 +180,7 @@ They can be viewed by clicking on the bookmarks tab.
 Each of them can be shared, deleted from bookmark or clicked to open the detail page.
 
 The application, also allows to search for news. The news search box also provides an autocomplete.
-<img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/autocomplete.png" alt="Auto-Complete">  <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/autoComplete.png" alt="Auto-Complete">  <br/>
 A code snippet for the search auto complete is shown below:
 
 ```js
