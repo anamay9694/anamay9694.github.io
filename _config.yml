@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:anamaysa@usc.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-googlescholar"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=ITjsyjMAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
