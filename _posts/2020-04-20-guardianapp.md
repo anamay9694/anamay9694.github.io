@@ -2,7 +2,7 @@
 title: "Guardian-NYTimes-NewsApp"
 date: 2020-04-20
 header:
-  image: "/images/rain.jpg"
+  image: "/images/fire.jpg"
 excerpt: "Web Technologies, JavaScript, React, Node, GCP"
 mathjax: "true"
 ---
