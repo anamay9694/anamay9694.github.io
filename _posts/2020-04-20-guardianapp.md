@@ -14,37 +14,37 @@ Description:
 **Guardian-NYTimes-NewsApp** allows users to search for news using autocomplete, see news articles, share news articles via facebook, twitter or email, navigate to news articles on click, bookmark news articles and also comment on the articles. The front end is responsive to screen sizes.
 
 The main pages from the application:
-1. Home Page for Guardian and NY times
++ Home Page for Guardian and NY times
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/homeguardian.png"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/homeguardian.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/homeny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/homeny.PNG"></a>
 </figure>
 
-2. World Page for Guardian and NY times 
++ World Page for Guardian and NY times 
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/worldguardian.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/worldguardian.PNG"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/worldny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/worldny.PNG"></a>
 </figure>
 
-3. Politics Page for Guardian and NY times 
++ Politics Page for Guardian and NY times 
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/politicsguardian.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/politicsguardian.PNG"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/politicsny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/politicsny.PNG"></a>
 </figure>
 
-4. Business Page for Guardian and NY times 
++ Business Page for Guardian and NY times 
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/businessguardian.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/businessguardian.PNG"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/businessny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/businessny.PNG"></a>
 </figure>
 
-5. Technology Page for Guardian and NY times 
++ Technology Page for Guardian and NY times 
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/technologyguardian.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/technologyguardian.PNG"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/technologyny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/technologyny.PNG"></a>
 </figure>
 
-6. Sports Page for Guardian and NY times 
++ Sports Page for Guardian and NY times 
 <figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/sportsguardian.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/sportsguardian.PNG"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/sportsny.PNG"><img src="{{ site.url }}{{ site.baseurl }}/images/guardiannewsapp/sportsny.PNG"></a>
@@ -94,5 +94,7 @@ class BodyCards extends React.Component{
 		})
 	}
 ```
+
+
 
 
